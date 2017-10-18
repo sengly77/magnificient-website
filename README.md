@@ -1,1 +1,2 @@
-﻿# Conflict commit from master
+
+﻿# Conflict commit from conflict branch
