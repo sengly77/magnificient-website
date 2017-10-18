@@ -1,1 +1,1 @@
-﻿# This is an update from local withGitKraken
+﻿# Conflict commit from conflict branch
